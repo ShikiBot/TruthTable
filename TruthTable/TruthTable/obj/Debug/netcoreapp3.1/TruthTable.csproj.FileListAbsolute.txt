@@ -1,0 +1,13 @@
+Z:\git_projects\TruthTable\TruthTable\TruthTable\bin\Debug\netcoreapp3.1\TruthTable.exe
+Z:\git_projects\TruthTable\TruthTable\TruthTable\bin\Debug\netcoreapp3.1\TruthTable.deps.json
+Z:\git_projects\TruthTable\TruthTable\TruthTable\bin\Debug\netcoreapp3.1\TruthTable.runtimeconfig.json
+Z:\git_projects\TruthTable\TruthTable\TruthTable\bin\Debug\netcoreapp3.1\TruthTable.runtimeconfig.dev.json
+Z:\git_projects\TruthTable\TruthTable\TruthTable\bin\Debug\netcoreapp3.1\TruthTable.dll
+Z:\git_projects\TruthTable\TruthTable\TruthTable\bin\Debug\netcoreapp3.1\TruthTable.pdb
+Z:\git_projects\TruthTable\TruthTable\TruthTable\obj\Debug\netcoreapp3.1\TruthTable.csprojAssemblyReference.cache
+Z:\git_projects\TruthTable\TruthTable\TruthTable\obj\Debug\netcoreapp3.1\TruthTable.csproj.CoreCompileInputs.cache
+Z:\git_projects\TruthTable\TruthTable\TruthTable\obj\Debug\netcoreapp3.1\TruthTable.AssemblyInfoInputs.cache
+Z:\git_projects\TruthTable\TruthTable\TruthTable\obj\Debug\netcoreapp3.1\TruthTable.AssemblyInfo.cs
+Z:\git_projects\TruthTable\TruthTable\TruthTable\obj\Debug\netcoreapp3.1\TruthTable.dll
+Z:\git_projects\TruthTable\TruthTable\TruthTable\obj\Debug\netcoreapp3.1\TruthTable.pdb
+Z:\git_projects\TruthTable\TruthTable\TruthTable\obj\Debug\netcoreapp3.1\TruthTable.genruntimeconfig.cache
